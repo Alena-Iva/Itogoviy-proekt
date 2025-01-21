@@ -1,0 +1,31 @@
+main {
+    text-align: left;
+    color: rgb(201, 160, 109);
+    text-align: top;
+}
+body {
+    background-color: bisque;
+    color: rgb(0, 83, 118);
+    text-align: right;
+    white-space: nowrap;
+}
+.sbor :hover {
+    color: blue;
+}
+.sbor {
+    text-align: left;
+    display: flex;
+    gap: 20px;
+}
+img {
+    width: 900px;
+    gap: 300px;
+    float: right;
+
+}
+.photo {
+    text-align: right;
+    display: flex;
+    gap: 20px;
+    border: 4 solid rgb(209, 124, 54);
+}
