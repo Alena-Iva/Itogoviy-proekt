@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+}
+.Хобби {
+    text-align: center;
+    border: 2px solid gold;
+    width: 400px;
+    align-items: center;
+}
+.Опыт {
+    text-align: center;
+    border: 2px solid gold;
+    width: 400px;
+    align-items: left;
+} 
+.Языки {
+    text-align: center;
+    border: 2px solid gold;
+    width: 400px;
+    align-items: right;
+}
